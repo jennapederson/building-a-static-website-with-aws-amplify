@@ -2,3 +2,14 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Building a Website on AWS"
 theme = "hugo-theme-learn"
+uglyurls = true
+
+[params]
+themeVariant = "mine"
+showVisitedLinks = true
+author = "Jenna Pederson"
+description = "Building a Website on AWS"
+disableSearch = true
+disableAssetsBusting = false
+disableLanguageSwitchingButton = true
+disableShortcutsTitle=true
