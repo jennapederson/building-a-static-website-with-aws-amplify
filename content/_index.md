@@ -1,9 +1,9 @@
 ---
-title: "Building a Website on AWS"
+title: "Build a Static Website on AWS Amplify"
 chapter: true
 weight: 1
 ---
-# Building a Website on AWS
+# Build a Static Website on AWS Amplify
 
 ### Welcome!
 

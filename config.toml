@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Building a Website on AWS"
+title = "Build a Static Website on AWS Amplify"
 theme = "hugo-theme-learn"
 uglyurls = true
 
@@ -8,7 +8,7 @@ uglyurls = true
 themeVariant = "mine"
 showVisitedLinks = true
 author = "Jenna Pederson"
-description = "Building a Website on AWS"
+description = "Build a Static Website on AWS Amplify"
 disableSearch = true
 disableAssetsBusting = false
 disableLanguageSwitchingButton = true
