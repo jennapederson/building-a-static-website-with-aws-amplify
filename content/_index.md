@@ -7,4 +7,4 @@ weight: 1
 
 ### Welcome!
 
-In this workshop...
+In this workshop, we'll build a static website with HTML, CSS, and JavaScript hosted on AWS Amplify.
