@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Build a Static Website on AWS Amplify"
 theme = "hugo-theme-learn"
 uglyurls = true
+relativeURLs = true
 
 [params]
 themeVariant = "mine"
