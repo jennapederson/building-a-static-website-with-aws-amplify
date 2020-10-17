@@ -40,6 +40,28 @@ In order to see what we're building as we build it, we'll want to open this HTML
 
 Right now, your web page is not running on a server. We are viewing it locally on your computer, in the browser and the browser knows how to render the HTML.
 
+If you scroll to the bottom of the page, you'll notice that one of the images is broken. Let's fix it!
+
 ### Get to Know the Browser Dev Tools
 
-While viewing the index.html web page in your browser, right-click anywhere on the page and select "Inspect".
+The browser dev tools help us debug our frontend code, see what we sent to or received back from our backend servers, and even assess the accessibility of our site.
+
+Let's fix that image. Right-click on the broken image and select "Inspect". The browser dev tools will open to the "Elements" tab, showing the specific element you chose to inspect, in this case the `<img>` element. The "Elements" tab will show the HTML document and as you click on each element, you can view more information about it, including the CSS styles that apply to that specific element.
+
+Make note of the `src` attribute and its value, then select the "Network" tab. This tab lists all of the requests (and their responses) that the browser made on behalf of the page to other locations. You'll see the following requests in the screenshot below:
+
+- `blog.html` - this is the browser requesting the web page from the server
+- `280?id=10`
+- `280?id=59`
+- `280?id=82`
+- `boston-terrier.jpg` - shown in red, this indicates an error.
+
+![](../../images/network-tab.png)
+
+If you click on the request that is failing (red), you'll see the "Request URL" in the "General" tab refers to an image that we don't yet have in the `website` folder. In fact, we don't even have an `images` folder!
+
+You'll also see this error reflected on the "Console" tab and it even shows the line number in the HTML where the error occurred.
+
+![](../../images/console-tab.png)
+
+Click on the link on the right to go to the code in your browser dev tools.
