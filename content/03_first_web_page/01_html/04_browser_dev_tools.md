@@ -57,4 +57,6 @@ Instead of using the default height and width of the image, we should make the w
 <img src="images/boston-terrier.jpg" width="500" alt="Blog Post Title 3">
 ```
 
-Now, the image for the third post should look consistent with the others!
+After refreshing the page, the image for the third post should look consistent with the others!
+
+Right now, your page is using the browser's default CSS style sheet. You'll notice that the HTML already includes CSS classes applied to the HTML elements. Next, we'll update the CSS of the page to give those elements some style.
