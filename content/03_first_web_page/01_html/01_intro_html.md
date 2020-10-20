@@ -4,7 +4,7 @@ chapter = false
 weight = 1
 +++
 
-# What is HTML?
+### What is HTML?
 
 HTML is HyperText Markup Language, essentially text linking to other related text. HTML defines the structure of your web page. telling the browser that a block of text is a paragraph, that an image is an image, and that a link is a link and should take the user to that location when clicked.
 
@@ -19,7 +19,7 @@ HTML is made up of elements that wrap your content to make it show up in your br
 
 HTML elements can be nested inside other elements. HTML element can contain attributes that convey extra information about the element. HTML elements can also be empty, without content.
 
-## Basic HTML File Structure
+### Basic HTML File Structure
 
 `html` tags wrap an entire HTML document. The `head` tag contains information about the page itself, including the title which shows in the browser tab or window.
 
