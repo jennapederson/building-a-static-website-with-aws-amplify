@@ -29,7 +29,7 @@ Click on the linked file and line number on the right. This will take you to the
 
 Let's fix it!
 
-Download this {{% button href="/03_first_web_page/01_html/files/images.zip" icon="fas fa-download" %}}images zip file{{% /button %}}. Unzip the file by double-clicking on it, then drag the resulting `images` folder into the `website` folder. If you drag it into VS Code, be sure to "Copy folder" to the `website` directory, not "Add folder".
+Inside your `website` folder, create a new folder named `images`. Download this {{% button href="/03_first_web_page/01_html/files/images/boston-terrier.jpg" icon="fas fa-download" %}}image file{{% /button %}} and put it into the new `images` folder.
 
 Now, your `website` file structure should look like this:
 
@@ -51,7 +51,7 @@ It will look like this:
 <img src="images/boston-terrier.jpg" alt="Blog Post Title 3">
 ```
 
-Instead of using the default height and width of the image, we should make the width match the others by specifying the `width` attribute. Change it to this:
+Instead of using the default height and width of the image, we'll make the width match the others by specifying the `width` attribute. Change it to this:
 
 ```
 <img src="images/boston-terrier.jpg" width="500" alt="Blog Post Title 3">
