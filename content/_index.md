@@ -7,4 +7,4 @@ weight: 1
 
 ### Welcome!
 
-In this workshop, we'll build a static website with HTML, CSS, and JavaScript hosted on AWS Amplify.
+In this workshop, we'll build a static website. We'll use HTML to structure it, CSS to give it some style, and JavaScript to make it interactive. Then, we'll deploy the website using AWS Amplify Console.
