@@ -1,7 +1,7 @@
 +++
 title = "Deploy Your Site"
 chapter = false
-weight = 2
+weight = 3
 +++
 
 ### Create Zip File of Website
