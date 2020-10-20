@@ -1,12 +1,12 @@
 +++
-title = "Change HTML Layout"
+title = "Change the Layout"
 chapter = false
 weight = 3
 +++
 
 ### Create Blog Layout in HTML
 
-Let's turn that into a webpage with a simple blog layout. Copy the HTML below and paste it into your `index.html` file.
+Let's turn that "Hello World" into a webpage with a simple blog layout. Copy the HTML below and paste it into your `index.html` file.
 
 ```
 <!DOCTYPE html>
