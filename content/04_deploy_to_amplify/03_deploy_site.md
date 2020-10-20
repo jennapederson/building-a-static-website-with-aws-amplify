@@ -8,13 +8,9 @@ weight = 3
 
 Before we go into the AWS Console, go to the `website` folder located on your desktop. We will need to create a zip file of the contents of this folder (not of the folder itself). Inside the `website` folder, select all of the files, right-click and select the menu item to compress those files. A new `.zip` file should be created inside the `website` folder. This is the file you'll upload to AWS Amplify to deploy your site.
 
-### Go to the AWS Console
-
-TODO
-
 ### Go to the AWS Amplify Console
 
-After logging into your AWS account, use the "Find Services" search box to search for "AWS Amplify" or use the "Services" menu to navigate there under the "Front-end Web & Mobile" section.
+From the AWS Management Console, use the "Find Services" search box to search for "AWS Amplify" or use the "Services" menu to navigate there under the "Front-end Web & Mobile" section.
 
 ![](../../images/open-amplify.png)
 
