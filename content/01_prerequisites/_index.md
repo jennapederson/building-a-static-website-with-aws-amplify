@@ -4,6 +4,6 @@ chapter = true
 weight = 10
 +++
 
-# Prerequisites for the Workshop
+# Before You Begin
 
 {{% children showhidden="false" %}}
