@@ -59,8 +59,7 @@ button {
 
 Now you can go back to the page in your browser and press the toggle button.
 
-TODO
-![](../../images/styled-with-css.png)
+![](../../images/toggle-button-pressed.png)
 
 #### Congratulations!
 
