@@ -68,11 +68,11 @@ Let's turn that "Hello World" into a webpage with a simple blog layout. Copy the
 
 Save the file. Then go back to your browser and refresh the page. You should now see the following blog layout:
 
-![](../../images/my-first-blog-browser.png)
+![](/images/my-first-blog-browser.png)
 
 
 If you scroll to the bottom of the page, you'll notice that one of the images is broken.
 
-![](../../images/missing-image.png)
+![](/images/missing-image.png)
 
 Let's fix it!

@@ -10,17 +10,17 @@ You can complete this workshop at an AWS event where a temporary account is prov
 
 If you're completing this workshop as part of an organized event, you'll be provided a temporary AWS account. At the bottom of this workshop page, you'll see the following section to get you started.
 
-![](../../images/temporary-account.png)
+![](/images/temporary-account.png)
 
 Click on the "Click here to access" link in the green box. A new tab will open in your browser with a 16 digit hash pre-populated for you. Read the Terms & Conditions and click "Accept Terms & Login".
 
-![](../../images/accept-terms.png)
+![](/images/accept-terms.png)
 
 Next, you'll be presented with the EventEngine dashboard. Here, you can click the "AWS Console" button and then click the "Open AWS Console" button to access the AWS Management Console.
 
 ##### Using Your Own AWS Account?
 
-If you already have an AWS account created, you can sign into the AWS Management Console [here](https://console.aws.amazon.com/). If you need to create an AWS account, you can find more information on doing that [here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
+If you are not completing this workshop as part of an organized event and already have an AWS account created, you can sign into the AWS Management Console [here](https://console.aws.amazon.com/). If you need to create an AWS account, you can find more information on doing that [here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
 
 ### AWS Free Tier
 

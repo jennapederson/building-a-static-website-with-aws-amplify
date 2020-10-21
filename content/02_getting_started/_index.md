@@ -20,4 +20,4 @@ The workshop is divided into five parts. You will:
 
 The architecture for this module is very straightforward. All of your static web content including HTML, CSS, JavaScript, images and other files will be managed by AWS Amplify Console and served via Amazon CloudFront. Your end users will then access your site using the public website URL exposed by AWS Amplify Console. You don’t need to run any web servers or use other services in order to make your site available to the public. We'll use the services and tools AWS provides to handle the heavy lifting involved in building modern, robust applications.
 
-![](../../images/amplify.png)
+![](images/amplify.png)

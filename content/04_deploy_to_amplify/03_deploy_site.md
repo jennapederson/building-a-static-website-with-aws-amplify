@@ -12,11 +12,11 @@ Before we go into the AWS Console, go to the `website` folder located on your de
 
 From the AWS Management Console, use the "Find Services" search box to search for "AWS Amplify" or use the "Services" menu to navigate there under the "Front-end Web & Mobile" section.
 
-![](../../images/open-amplify.png)
+![](/images/open-amplify.png)
 
 You'll see the AWS Amplify Console landing page.
 
-![](../../images/amplify-landing-pg.png)
+![](/images/amplify-landing-pg.png)
 
 Under the Deploy section, click the "Get Started" button.
 
@@ -24,7 +24,7 @@ Under the Deploy section, click the "Get Started" button.
 
 If we were managing our website's code in a Git source control repository, we could connect it directly to the repository. Instead, we'll upload the website's files directly to the Amplify Console to deploy it.
 
-![](../../images/deploy-without-git-provider.png)
+![](/images/deploy-without-git-provider.png)
 
 Choose "Deploy without Git provider" and click on the "Continue" button.
 
@@ -32,7 +32,7 @@ Choose "Deploy without Git provider" and click on the "Continue" button.
 
 Set the "App name", something memorable like the name of your website. You can leave "Environment name" empty or set it to a value like "prod" or "test". Choose "Drag and Drop" for the Method. Then, drag your `website.zip` file you created earlier to the drop section of the Amplify Console.
 
-![](../../images/manual-deploy.png)
+![](/images/manual-deploy.png)
 
 Once it's finished uploading, click the "Save and deploy" button to deploy your site.
 
@@ -40,4 +40,4 @@ Once it's finished uploading, click the "Save and deploy" button to deploy your 
 
 🎉 You've deployed your first website to AWS Amplify! Go check it out by clicking on the URL under the "Domain" section.
 
-![](../../images/site-url.png)
+![](/images/site-url.png)

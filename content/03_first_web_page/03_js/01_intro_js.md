@@ -12,7 +12,7 @@ JavaScript (JS) is code that runs in your browser and makes your website more in
 
 A common use case for using JavaScript is when you type your password into an input form element and then mistype the confirmation password, you'll often see sites highlight that the two passwords don't match. They'll compare the values of the two password inputs with JavaScript and then use JavaScript to update the HTML of the page to show you an error message.
 
-![](../../images/JSClickHandler.png)
+![](/images/JSClickHandler.png)
 
 In the example above:
 

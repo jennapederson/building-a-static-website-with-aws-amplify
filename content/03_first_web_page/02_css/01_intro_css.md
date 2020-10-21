@@ -12,7 +12,7 @@ Every browser has a default stylesheet. With CSS, we can apply styles that overr
 
 CSS is made up of rules.
 
-![](../../images/CSSRule.png)
+![](/images/CSSRule.png)
 
 - Selector: defined what element or elements this rule should apply to
 - Property: The CSS property to influence

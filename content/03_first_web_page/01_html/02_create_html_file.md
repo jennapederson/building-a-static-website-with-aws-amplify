@@ -10,7 +10,7 @@ Open up your text editor and create a new folder named `website` on the your Des
 
 Inside the `website` folder, start a new file. Before adding any code to this file, save it with the name `index.html` to the `website` folder located on your desktop.
 
-![](../../images/save-file.png)
+![](/images/save-file.png)
 
 When we set the file extension, `.html`, your text editor knows what type of file you are working with and will give you some hints along the way.
 
@@ -37,7 +37,7 @@ Copy the HTML document below and paste it into the `index.html` file you just cr
 
 In order to see what we're building as we build it, you'll want to open this HTML file in our browser. Go to the `website` folder on your Desktop and open the file. Because of the file extension, `.html`, your computer knows to open this in your default browser. If your default browser is not set to Chrome or Firefox, you can right-click on the file and select "Open with..." to use Chrome or Firefox.
 
-![](../../images/hello-world-browser.png)
+![](/images/hello-world-browser.png)
 
 #### Congratulations!
 

@@ -8,7 +8,7 @@ If you need to update your website's files or publish a new blog post, you can m
 
 You'll create an updated zip file of the contents of the `website` folder (not of the folder itself) and drag and drop it to the AWS Amplify Console to update your site.
 
-![](../../images/update-site.png)
+![](/images/update-site.png)
 
 ### Congratulations!
 

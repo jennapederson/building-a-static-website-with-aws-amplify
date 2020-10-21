@@ -8,7 +8,7 @@ weight = 3
 
 Inside the `website` folder, create a folder to hold your CSS code and name it `css`. Create a new file named `styles.css` inside the new `css` folder. Your website folder structure will now look like this:
 
-![](../../images/website-file-structure-css-step.png)
+![](/images/website-file-structure-css-step.png)
 
 ### Add CSS
 
@@ -88,7 +88,7 @@ Remove the entire `style` element setting the body font from the `head` of the H
 
 Now that you've added some CSS styles and linked the HTML to the `styles.css` file, you can open the `index.html` file in our browser or refresh the page if it's already open.
 
-![](../../images/styled-with-css.png)
+![](/images/styled-with-css.png)
 
 #### Congratulations!
 
@@ -102,4 +102,4 @@ Right-click on the title of the page, "My First Blog", and select "Inspect". The
 
 In the right panel Styles tab, you will see the CSS styles that are applied to the specific HTML element you've selected. You can add new rules here or disable rules, testing your code directly in the browser before adding it to your code.
 
-![](../../images/styles-tab.png)
+![](/images/styles-tab.png)

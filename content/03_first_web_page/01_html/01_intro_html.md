@@ -10,7 +10,7 @@ HTML is HyperText Markup Language, essentially text linking to other related tex
 
 HTML is made up of elements that wrap your content to make it show up in your browser based on that type of element. You are telling your browser that this should be a paragraph of text.
 
-![](../../images/HTMLElement.png)
+![](/images/HTMLElement.png)
 
 - Opening tag: the name of the element wrapped with opening and closing angle brackets
 - Attribute: conveys extra information about the element
