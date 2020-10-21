@@ -8,7 +8,7 @@ weight = 2
 
 Let's first change the font of the body of the HTML. CSS rules can be added directly to elements, inside the `head` of the page, or in an external `.css` file linked from the `head` of the page.
 
-Inside of the `head` element of your `index.html` file, add the following at the bottom, immediately proceeding the closing `head` tag.
+Inside of the `head` element of your `index.html` file, add the following at the bottom, immediately preceding the closing `head` tag.
 
 ```
 <style>

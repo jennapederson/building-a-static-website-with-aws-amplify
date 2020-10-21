@@ -10,11 +10,11 @@ The browser dev tools help you debug your frontend code, see what the page sent 
 
 Let's fix that image. Right-click on the broken image and select "Inspect". The browser dev tools will open to the "Elements" tab, showing the specific element you chose to inspect, in this case the `<img>` element. The "Elements" tab will show the HTML document and as you click on each element, you can view more information about it, including the CSS styles that apply to that specific element.
 
-Make note of the `src` attribute and its value, then select the "Network" tab. This tab lists all of the requests (and their responses) that the browser made on behalf of the page to other locations. You'll see the following requests in the screenshot below:
+Make note of the `src` attribute and its value. Refresh the page once more, then select the "Network" tab in the dev tools. This tab lists all of the requests (and their responses) that the browser made on behalf of the page to other locations. You'll see the following requests in the screenshot below:
 
 - `blog.html` - this is the browser requesting the web page from the server
-- `280?id=10`
-- `280?id=59`
+- `280?id=10` - a request for https://placedog.net/500/280?id=10
+- `280?id=59` - a request for https://placedog.net/500/280?id=59
 - `boston-terrier.jpg` - shown in red, this indicates an error.
 
 ![](/images/network-tab.png)

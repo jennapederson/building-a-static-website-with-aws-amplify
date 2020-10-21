@@ -30,7 +30,7 @@ Choose "Deploy without Git provider" and click on the "Continue" button.
 
 ### Upload Website Files
 
-Set the "App name", something memorable like the name of your website. You can leave "Environment name" empty or set it to a value like "prod" or "test". Choose "Drag and Drop" for the Method. Then, drag your `website.zip` file you created earlier to the drop section of the Amplify Console.
+Set the "App name", something memorable like the name of your website. You can leave "Environment name" empty or set it to a value like "prod" or "test". Choose "Drag and Drop" for the Method. Then, drag the zip file you created earlier to the drop section of the Amplify Console.
 
 ![](/images/manual-deploy.png)
 
