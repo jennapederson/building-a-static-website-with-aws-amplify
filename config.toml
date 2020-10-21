@@ -1,4 +1,3 @@
-##baseURL = disabled
 languageCode = "en-us"
 title = "Build a Static Website on AWS Amplify"
 theme = "hugo-theme-learn"
