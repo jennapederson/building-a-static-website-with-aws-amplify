@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
+##baseURL = disabled
 languageCode = "en-us"
 title = "Build a Static Website on AWS Amplify"
 theme = "hugo-theme-learn"
-uglyurls = true
-relativeURLs = true
+uglyurls=true
+RelativeURLs=true
 
 [params]
 themeVariant = "mine"
